@@ -43,9 +43,9 @@ function App() {
         <nav className="collapse navbar-collapse dropdown-nav" id="navbar">
           <div className="dropdown-nav__container container-xxl d-flex align-items-start align-items-md-center">
             <div className="row align-items-start text-black pt-0 pt-md-2 pt-xl-0">
-              <div className="col-12 col-sm-4 mt-4">
+              <div className="col-12 col-sm-4 mt-4 ">
                 <a href="#" className="row text-decoration-none p-0">
-                  <div className="col-2 col-sm-12 mb-4">
+                  <div className="col-2 col-sm-12 mb-4 mb-xl-0">
                     <img
                       src={img1}
                       alt="Coffe Flavour"
@@ -66,7 +66,7 @@ function App() {
               </div>
               <div className="col-12 col-sm-4 mt-4">
                 <a href="#" class="row text-decoration-none p-0">
-                  <div className="col-2 col-sm-12 mb-4">
+                  <div className="col-2 col-sm-12 mb-4 mb-xl-0">
                     <img
                       src={img2}
                       alt="Coffe Flavour"
@@ -87,7 +87,7 @@ function App() {
               </div>
               <div className="col-12 col-sm-4 mt-4">
                 <a href="#" className="row text-decoration-none p-0">
-                  <div className="col-2 col-sm-12 mb-4 nv-div">
+                  <div className="col-2 col-sm-12 mb-4 nv-div mb-xl-0">
                     <img
                       src={img3}
                       alt="Coffe Flavour"
