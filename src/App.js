@@ -57,7 +57,7 @@ function App() {
                   </div>
                   <div className="col-10 text-black">
                     <h3 mb-xxl-0>Amazing Flavour</h3>
-                    <p mb-xxl-0> Find out more about our aAmazing Flavour</p>
+                    <p mb-xxl-0> Find out more about our Amazing Flavour</p>
                     <p mb-xxl-0>
                       Learn More <i class="bi bi-arrow-right-short"></i>
                     </p>
@@ -128,8 +128,8 @@ function App() {
               Discover The Taste Of Real Coffee.
             </h1>
             <p className="mb-4 fs-5 text-white">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry.
+              Welcome to the world of coffee, where every sip is an experience
+              and every cup tells a story.
             </p>
             <a
               href="#main"
@@ -161,10 +161,11 @@ function App() {
             <span>01</span>
             <h1 className="h2 mb-4">Amazing Coffee Flavour</h1>
             <p className="mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia
-              totam dolorem quasi! Quis fugiat totam id fuga non distinctio
-              incidunt amet nesciunt itaque, tempore repellat eos natus quo
-              mollitia laborum.
+              Our coffee brand offers an exquisite and unique coffee blend that
+              will tantalize your taste buds with its rich and robust flavor.
+              Each cup of our coffee is made with carefully selected coffee
+              beans, roasted to perfection to bring out their full flavor
+              potential.
             </p>
             <a href="#" className="text-black">
               Read More <i className="bi bi-arrow-right"></i>
@@ -179,10 +180,10 @@ function App() {
             <span>02</span>
             <h1 className="h2 mb-4">Surprising Health Benefits</h1>
             <p className="mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia
-              totam dolorem quasi! Quis fugiat totam id fuga non distinctio
-              incidunt amet nesciunt itaque, tempore repellat eos natus quo
-              mollitia laborum.
+              From the first sip to the last drop, you'll be transported to a
+              world of heavenly delight. Our coffee not only satisfies your
+              taste buds but also provides numerous health benefits that are
+              sure to keep you energized throughout the day.
             </p>
             <a href="#" className="text-black">
               Read More <i className="bi bi-arrow-right"></i>
@@ -209,12 +210,12 @@ function App() {
             style={{ maxWidth: "500px" }}
           >
             <span>03</span>
-            <h1 className="h2 mb-4">Amazing Coffee Flavour</h1>
+            <h1 className="h2 mb-4">Essential Nutrients</h1>
             <p className="mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officia
-              totam dolorem quasi! Quis fugiat totam id fuga non distinctio
-              incidunt amet nesciunt itaque, tempore repellat eos natus quo
-              mollitia laborum.
+              Coffee is not only a delicious and energizing beverage, but it
+              also contains essential nutrients that can benefit your health.
+              One cup of coffee can provide you with vital nutrients such as
+              riboflavin, niacin, magnesium, potassium, and antioxidants.
             </p>
             <a href="#" className="text-black">
               Read More <i className="bi bi-arrow-right"></i>
@@ -229,30 +230,31 @@ function App() {
               <img className="mb-4 img-fluid" alt="coffee-img" src={pic1} />
               <h3>Amazing Coffee Flavour</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. A
-                veniam ullam illo dolorum dolor. Dolor, velit vitae? Fugiat
-                quidem nostrum nobis sit beatae consequuntur quisquam iusto
-                reprehenderit voluptatibus officia? Natus.
+                Our coffee brand offers an exquisite and unique coffee blend
+                that will tantalize your taste buds with its rich and robust
+                flavor. Each cup of our coffee is made with carefully selected
+                coffee beans, roasted to perfection to bring out their full
+                flavor potential.
               </p>
             </div>
             <div className="col-12 col-sm-4 mb-4 px-3 px-sm-2">
               <img className="mb-4 img-fluid" alt="coffee-img" src={pic2} />
               <h3>Health Benefits</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. A
-                veniam ullam illo dolorum dolor. Dolor, velit vitae? Fugiat
-                quidem nostrum nobis sit beatae consequuntur quisquam iusto
-                reprehenderit voluptatibus officia? Natus.
+                From the first sip to the last drop, you'll be transported to a
+                world of heavenly delight. Our coffee not only satisfies your
+                taste buds but also provides numerous health benefits that are
+                sure to keep you energized throughout the day.
               </p>
             </div>
             <div className="col-12 col-sm-4 mb-4 px-3">
               <img className="mb-4 img-fluid" alt="coffee-img" src={pic3} />
               <h3>Essential Nutrients</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. A
-                veniam ullam illo dolorum dolor. Dolor, velit vitae? Fugiat
-                quidem nostrum nobis sit beatae consequuntur quisquam iusto
-                reprehenderit voluptatibus officia? Natus.
+                Coffee is not only a delicious and energizing beverage, but it
+                also contains essential nutrients that can benefit your health.
+                One cup of coffee can provide you with vital nutrients such as
+                riboflavin, niacin, magnesium, potassium, and antioxidants.
               </p>
             </div>
           </div>
